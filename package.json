@@ -1,0 +1,17 @@
+{
+  "name": "volar-vue2-test-mag",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "dependencies": {
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.1.2"
+  },
+  "devDependencies": {
+    "@vue/runtime-dom": "^3.2.23",
+    "vite": "^2.6.14",
+    "vite-plugin-vue2": "^1.9.0"
+  }
+}
